@@ -1,0 +1,8 @@
+{
+  "N": 100000000,
+  "Qmaj": 10000,
+  "eta": 0.02,
+  "P": 1000000,
+  "weight_file": "data/weights/w_default.json",
+  "window_file": "data/windows/phi_default.json"
+}

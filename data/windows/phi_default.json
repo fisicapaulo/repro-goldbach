@@ -1,0 +1,7 @@
+{
+  "phi_type": "smooth_plateau",
+  "plateau_minor": 1.0,
+  "transition_smoothness": 0.15,
+  "overlap_max_frac": 0.08,
+  "width_C": 1.5
+}

@@ -1,0 +1,6 @@
+{
+  "type": "gaussian",
+  "sigma": 0.2,
+  "center_frac": 0.5,
+  "normalize_mass": true
+}
